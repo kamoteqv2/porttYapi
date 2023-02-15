@@ -30,3 +30,6 @@ If you would like to contribute to porttYapi.exe, please open a pull request on 
 
 ## License
 **porttYapi.exe** is licensed under the MIT license. See the LICENSE file for more details.
+
+
+Credit: This application was developed by KMQ Tech TV (https://www.youtube.com/@kamoteqv2), a Youtube channel dedicated to teaching and promoting Free DIY technology.
