@@ -1,9 +1,9 @@
 ## porttYapi.exe
 
-**porttYapi.exe** is a command-line tool that helps users connect their Arduino Uno to a network without using an Ethernet shield. This API program interfaces with the Arduino serial and serves as an API server to middleman HTTP POST requests from the OpenHAB application to the Arduino via the command line.
+**porttYapi.exe** is a command-line tool that helps users connect their Arduino Uno to a network without using an Ethernet shield. This API program interfaces with the Arduino serial and serves as an API server to middleman HTTP POST requests from the OpenHAB application/Home Assistant to the Arduino via the command line.
 
 ## Installation
-To use **porttYapi.exe**, you will need to download the executable file and save it on your computer. You can do this by clicking the "Download" button on the GitHub repository.
+To use **porttYapi.exe**, you will need to download the executable file and save it on your computer. You can do this by clicking the "Download" button on the GitHub repository. Before using the porttYapi.exe, the user should first upload the hex file or firmware included in the repository to the Arduino Uno board using the XLoader application. Optional, users can also install the DHT sensor at pin 2.
 
 ## Usage
 The command-line syntax for porttYapi.exe is as follows:
